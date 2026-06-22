@@ -1,7 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
 from flask_jwt_extended import JWTManager
-
 from config import Config
 from models import db
 
@@ -11,9 +10,10 @@ def create_app():
     app.config.from_object(Config)
 
     CORS(app, origins=[
-    "http://localhost:5173",
-    "https://taskyyyyi.netlify.app"
-])
+        "http://localhost:5173",
+        "https://taskyyyyi.netlify.app"
+    ])
+
     db.init_app(app)
     JWTManager(app)
 
