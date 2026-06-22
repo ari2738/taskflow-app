@@ -5,8 +5,15 @@ A full-stack task management web app with JWT authentication, AI-powered task su
 🔗 **Live demo:** https://taskyyyyi.netlify.app/
 📦 **Repo:** https://github.com/ari2738/taskflow-app
 
-## Demo
+## Demo screenshorts
 
+<img width="1902" height="902" alt="Screenshot 2026-06-21 124102" src="https://github.com/user-attachments/assets/a7bf0f56-0f5a-4c49-9b78-3ac5e670bb13" />
+
+<img width="1901" height="902" alt="Screenshot 2026-06-21 123917" src="https://github.com/user-attachments/assets/8137b78c-9374-49e9-a641-6d3c3b39d72e" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-21 123729" src="https://github.com/user-attachments/assets/66c7e9f2-2ce7-4923-b23d-a2a189a803eb" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-21 123630" src="https://github.com/user-attachments/assets/7aaab29a-16cf-4740-ad84-c40008af50c2" />
 
 
 ## Features
