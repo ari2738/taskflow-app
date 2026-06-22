@@ -112,7 +112,7 @@ python -c "import secrets; print(secrets.token_hex(32))"
 ## Deployment
 
 - **Backend** deployed on Render (`gunicorn run:app`), with environment variables set in the Render dashboard.
-- **Frontend** deployed on Vercel, pointing to the live backend URL via `src/api.js`.
+- **Frontend** deployed on netlify, pointing to the live frontend URL via `src/api.js`.
 
 ## Author
 
