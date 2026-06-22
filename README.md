@@ -2,7 +2,7 @@
 
 A full-stack task management web app with JWT authentication, AI-powered task suggestions, an AI productivity chatbot, and real-time dashboard analytics. Built as part of the Thiranex internship program.
 
-🔗 **Live demo:** _add your Vercel link here_
+🔗 **Live demo:** taskyyyyi.netlify.app
 📦 **Repo:** https://github.com/ari2738/taskflow-app
 
 ## Demo
